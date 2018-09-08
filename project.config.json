@@ -1,0 +1,13 @@
+{
+  "description": "gangxing",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxbdee5e4195d915c0",
+  "projectname": "gangxing",
+  "miniprogramRoot": "./dist"
+}
